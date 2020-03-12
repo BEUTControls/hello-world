@@ -23,5 +23,5 @@ def hellofunc(): # This is a function. (i think). Not really need for a simple p
   print("looking")
   sleep(1)
   print("for")
-# The HELLOFUNC() calls the above code.
+# The Hellofunc() calls the above code.
 hellofunc()
