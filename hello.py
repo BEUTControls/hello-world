@@ -12,7 +12,7 @@ def hellofunc(): # This is a function. (i think). Not really need for a simple p
   sleep(1)
   print ("Hello")
   sleep(1.5)
-  print ("Is)
+  print ("Is")
   sleep(0.5)
   print("it")
   sleep(0.5)
